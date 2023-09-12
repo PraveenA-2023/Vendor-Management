@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_policy">
+    <sys_ui_policy action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <conditions/>
+        <description/>
+        <global>true</global>
+        <inherit>false</inherit>
+        <isolate_script>true</isolate_script>
+        <model_id/>
+        <model_table/>
+        <on_load>true</on_load>
+        <order>100</order>
+        <reverse_if_false>true</reverse_if_false>
+        <run_scripts>false</run_scripts>
+        <script_false><![CDATA[function onCondition() {}]]></script_false>
+        <script_true><![CDATA[function onCondition() {}]]></script_true>
+        <set_values/>
+        <short_description>Test ADO Prj</short_description>
+        <sys_class_name>sys_ui_policy</sys_class_name>
+        <sys_created_by>Praveen.A</sys_created_by>
+        <sys_created_on>2023-09-12 11:32:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>78929aec2f113110fda7d7492799b6e1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test ADO Prj</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Demo Prj" source="x_898075_demo_prj">6560de2c2f113110fda7d7492799b63b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo Prj">6560de2c2f113110fda7d7492799b63b</sys_scope>
+        <sys_update_name>sys_ui_policy_78929aec2f113110fda7d7492799b6e1</sys_update_name>
+        <sys_updated_by>Praveen.A</sys_updated_by>
+        <sys_updated_on>2023-09-12 11:32:23</sys_updated_on>
+        <table>x_898075_demo_prj_ado_prj</table>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_ui_policy>
+</record_update>

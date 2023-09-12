@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>short_description</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>Praveen.A</sys_created_by>
+        <sys_created_on>2023-09-12 11:32:23</sys_created_on>
+        <sys_id>b8921eec2f113110fda7d7492799b61c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>short_description</sys_name>
+        <sys_package display_value="Demo Prj" source="x_898075_demo_prj">6560de2c2f113110fda7d7492799b63b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo Prj">6560de2c2f113110fda7d7492799b63b</sys_scope>
+        <sys_update_name>sys_ui_policy_action_b8921eec2f113110fda7d7492799b61c</sys_update_name>
+        <sys_updated_by>Praveen.A</sys_updated_by>
+        <sys_updated_on>2023-09-12 11:32:23</sys_updated_on>
+        <table>x_898075_demo_prj_ado_prj</table>
+        <ui_policy display_value="Test ADO Prj">78929aec2f113110fda7d7492799b6e1</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>
