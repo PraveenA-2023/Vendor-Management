@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_898075_demo_prj.admin" name="x_898075_demo_prj.admin">a160de2c2f113110fda7d7492799b64f</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>Praveen.A</sys_created_by>
+        <sys_created_on>2023-09-12 11:22:52</sys_created_on>
+        <sys_id>6160de2c2f113110fda7d7492799b651</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a160de2c2f113110fda7d7492799b64f</sys_name>
+        <sys_package display_value="Demo Prj" source="x_898075_demo_prj">6560de2c2f113110fda7d7492799b63b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo Prj">6560de2c2f113110fda7d7492799b63b</sys_scope>
+        <sys_update_name>sys_embedded_help_role_6160de2c2f113110fda7d7492799b651</sys_update_name>
+        <sys_updated_by>Praveen.A</sys_updated_by>
+        <sys_updated_on>2023-09-12 11:22:52</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
